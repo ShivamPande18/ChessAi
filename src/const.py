@@ -1,0 +1,15 @@
+# Screen dimensions
+WIDTH = 800
+HEIGHT = 800
+
+# Board dimensions
+ROWS = 8
+COLS = 8
+SQSIZE = WIDTH // COLS
+
+#Colors
+BLACK = (0,0,0)
+WHITE = (255,255,255)
+DARK_TILE = (119, 154, 88)
+LIGHT_TILE = (234,235,200)
+NEXT_MOVE_COLOR = (200, 100, 100)
